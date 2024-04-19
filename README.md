@@ -1,4 +1,4 @@
 # demo
 This is my learning git repository
 <br>
-Author - Devansh Tripathi
+Author - Devansh Tripathi or Dt
